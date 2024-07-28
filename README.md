@@ -1,4 +1,4 @@
-# AI Workhop for a Full-Stach + AI internship
+# AI Workhop prepared for a Full-Stack + AI internship
 
 ## praisePal - AI helping you, or your manager, classify performance reviews
 
